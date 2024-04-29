@@ -107,4 +107,8 @@
     list-style-type: none;
   }
   
+  audio {
+    display: none; /* Oculta o player de áudio */
+  }
+  
 
